@@ -5,10 +5,10 @@ public class Movie {
     String rank;
     String rankInten;
     String rankOldAndNew;
-    String moviCd;
+    String movieCd;
     String movieNm;
     String openDt;
-    String salesAnt;
+    String salesAmt;
     String salesShare;
     String salesInten;
     String salesChange;
